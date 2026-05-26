@@ -1,21 +1,17 @@
 # config.yml
-# Rubric version this config is written against (optional)
 rubric_version: '1.0.0'
 
 weights:
-  visual_design: 100
+  visual_design: 40
   layout: 0
-  usability: 0
-  accessibility: 0
-  content_ia: 0
-  performance: 0
-  code_quality: 0
+  usability: 12
+  accessibility: 12
+  content_ia: 12
+  performance: 12
+  code_quality: 12
   brand: 0
   consistency: 0
   microinteractions: 0
-
-weight_overrides_ack:
-  - accessibility # Acknowledges override of the weight floor for accessibility
 
 # Viewport configuration
 viewports:
