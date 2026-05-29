@@ -15,6 +15,7 @@ body {
   font-family: Arial, sans-serif;
   background-color: #18213c;
   color: #ffffff;
+  filter: contrast(1.02) brightness(0.98);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
