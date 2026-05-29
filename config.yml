@@ -1,0 +1,21 @@
+rubric_version: '1.0.0'
+
+weights:
+  visual_design: 100
+  layout: 0
+  usability: 0
+  accessibility: 0
+  content_ia: 0
+  performance: 0
+  code_quality: 0
+  brand: 0
+  consistency: 0
+  microinteractions: 0
+
+weight_overrides_ack:
+  - accessibility
+
+viewports:
+  desktop:
+    width: 1273
+    height: 862

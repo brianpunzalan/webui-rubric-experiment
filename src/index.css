@@ -12,9 +12,10 @@ html, body, #root {
 }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-  background-color: #1e2a3a;
+  font-family: Arial, sans-serif;
+  background-color: #18213c;
   color: #ffffff;
+  filter: contrast(1.02) brightness(0.98);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
